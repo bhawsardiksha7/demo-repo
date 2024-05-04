@@ -1,3 +1,0 @@
-# DEmo
-
-Some Description.
